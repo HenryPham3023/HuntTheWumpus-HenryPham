@@ -1,11 +1,11 @@
 # HuntTheWumpus-HenryPham
 
-# Download Wumpus.zip
+1. Download Wumpus.zip
 
-# In Visual Studio Code, click open folder and open the wumpus file
+2. In Visual Studio Code, click open folder and open the wumpus file
 
-# Make sure the Python interpreter is selected and the Java extension Pack and JDK are downloaded.
+3. Make sure the Python interpreter is selected and the Java extension Pack and JDK are downloaded.
 
-# Run the code
+4. Run the code
 
-# ENJOY!
+5. ENJOY!
