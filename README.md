@@ -1,5 +1,7 @@
 # HuntTheWumpus-HenryPham
 
+
+# This is a simplified readme. The full readme is in the word document.
 1. Download Wumpus.zip
 
 2. In Visual Studio Code, click open folder and open the wumpus file
